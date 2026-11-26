@@ -22,3 +22,10 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+## AI Agent & Local Tracking Files
+GEMINI.md
+gemini.md
+AGENT_GUIDE.md
+HANDOFF.md
+.env
